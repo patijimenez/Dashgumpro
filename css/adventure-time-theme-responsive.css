@@ -1,0 +1,25 @@
+/*Inserta tu Codigo Responsive*/
+@media(min-width:376px) and ( max-width: 667px){
+	.box1{
+		margin-left: 20px;
+	}
+	.sidebar-closed #sidebar {
+    margin-left: -210px;
+}
+	.box0 p{
+	display: none !important;
+ 	}
+}
+@media(min-width:667px) and ( max-width: 1024px){
+	.photo{
+		
+	}
+}
+@media(min-width:1024px) and ( max-width: 1600px){
+	
+}
+@media (min-width: 1200px){
+		.col-lg-4 {
+    	width: 33.33333333%;
+}
+}

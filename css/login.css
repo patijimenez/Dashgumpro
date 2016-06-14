@@ -1,0 +1,28 @@
+/*CSS LOGIN */
+.width-form{
+	width: 300px;
+
+}
+.form-login{
+    /*background-color: white;*/
+    width: 314px;
+    padding: 12px;
+    margin-top: 12px;
+}
+.form-login-heading{
+    background-color: rgba(66, 202, 194, 0.66);
+    text-align: center;
+    color: white;
+    padding: 22px;
+    border-radius: 10px;
+}
+.registration{
+	padding-top: 13px;
+    text-align: center;
+
+}
+.login-wrap{
+    background-color: white;
+    padding: 12px;
+    margin-top: -16px;
+}
